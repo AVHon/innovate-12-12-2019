@@ -10,3 +10,7 @@ The [slideshow](https://docs.google.com/presentation/d/1G3ZPOtCJCUtviQLXGuoSYPIO
 We will write code on [jsbin](https://jsbin.com) today.
 
 Here is the [instructor's jsbin](https://jsbin.com/xumikul/edit?js,console,output)
+
+## Tomorrow's Game
+
+[Spacewar](http://alexvh.me/share/spacewar.html)
