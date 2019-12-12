@@ -61,7 +61,7 @@ function readPlayerInput() {
 
     if (isNaN(chosenRoomNumber)) {
         addText("Please enter a number between 0 and " + currentRoom.rooms.length);
-    } else if (chosenRoomNumber > currentRoom.rooms.length) {
+    } else if (chosenRoomNumber >= currentRoom.rooms.length) {
         addText("Please enter a number between 0 and " + currentRoom.rooms.length);
     } else if (chosenRoomNumber < 0) {
         addText("Please enter a number between 0 and " + currentRoom.rooms.length);
