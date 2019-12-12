@@ -4,3 +4,9 @@ Source of instructions and code for Innovate Sullivan programming workshop, 12 D
 ## Slides
 
 The [slideshow](https://docs.google.com/presentation/d/1G3ZPOtCJCUtviQLXGuoSYPIO3LPDh7fyg1CpABSeyUg/edit?usp=sharing) with basic Javascript syntax.
+
+## jsbin
+
+We will write code on [jsbin](https://jsbin.com) today.
+
+Here is the [instructor's jsbin](https://jsbin.com/voxerod/edit?html,js,console,output)
