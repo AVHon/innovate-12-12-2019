@@ -1,4 +1,8 @@
-const welcomePrompt = "You are an adventurer who has just rolled out of bed. Tired and thirsty, you maraud the town square looking for something to perk up."
+let $output = $('#output');
+let $input = $('#input');
+let $submit = $('#submit');
+
+let welcomePrompt = "You are an adventurer who has just rolled out of bed. Tired and thirsty, you maraud the town square looking for something to perk up."
     + "\n\n" 
     + "Suddenly, you notice a shop you have never seen before."
     + "\n\n"  
@@ -18,8 +22,8 @@ const welcomePrompt = "You are an adventurer who has just rolled out of bed. Tir
 $output.text(welcomePrompt);
 
 $submit.click(function() {
-    const optionNumber = $input.val();
-    const oldOutput = $output.text();
+    let optionNumber = $input.val();
+    let oldOutput = $output.text();
     $input.val("");
 
     let newOutput = "\n\n---\n\n"
