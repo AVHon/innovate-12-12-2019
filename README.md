@@ -11,6 +11,6 @@ We will write code on [jsbin](https://jsbin.com) today.
 
 Here is the [instructor's jsbin](https://jsbin.com/xumikul/edit?js,console,output)
 
-## Tomorrow's Game
+## Day 2 Game Preview
 
 [Spacewar](http://alexvh.me/share/spacewar.html)
